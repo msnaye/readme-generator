@@ -19,10 +19,10 @@
 - [Repository](#Repository) 
   
 ## Description
-As a user, I want to generate a professional readme.MD file for a new project. Using Node, I will answer the prompt questions in th
+As a user, I want to generate a professional README.md file for a new project. Using Node, I will answer the prompt questions in the terminal to complete the README.md file.
 
 ## Installation
-As a user, I want to generate a professional readme.MD file for a new project. Using Node, I will answer the prompt questions in th
+NPM
 
 ## license
 MIT
@@ -31,10 +31,10 @@ MIT
 Mayra Ibarra
 
 ## usage
-It will be used to generate a quick and professional readme.md file.
+It is used to generate a quick and professional README.md file.
 
 ## tests
-none, but gest could be performed.
+None
 
 ## username
 msnaye
