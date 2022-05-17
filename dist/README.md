@@ -1,151 +1,45 @@
-# iehdopiwhef
+# Code for Me
+
+![badge](https://img.shields.io/badge/license-MIT-red)
+![badge](https://img.shields.io/github/last-commit/msnaye/calculator22)
+![badge](https://img.shields.io/github/issues/msnaye/calculator22)
+![badge](https://img.shields.io/github/languages/code-size/msnaye/calculator22)
+![badge](https://img.shields.io/github/directory-file-count/msnaye/calculator22)
+![badge](https://img.shields.io/github/languages/count/msnaye/calculator22)
+![badge](https://img.shields.io/github/languages/top/msnaye/calculator22)
 
 ## Table of Contents  
 
-- [Description](#description)
-- [Installation](#installation)
-- [License](#License)
-- [Contributors](#contributors)
-- [Usage](#usage)
-- [Test](#test)
-- [Repository](#repository) 
-
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-## hello
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
+[Description](#Description)
+[Istallation](#Installation)
+[License](#License)
+[Contributors](#Contributors)
+[Usage](#Usage)
+[Test](#Test)
+[Repository](#Repository) 
   
 ## Description
-kdfmslkdfmlkanflkanfljknaklfnlkanflkanqekldfnajnedjklansekdfksjednjknaekjdnfkjsnefnWIOUEHRIO w hn4pcr9u8pn	9dhmrx3ij2 jir	j2xim333ej 
+Coding everywhere
 
 ## Installation
-kdfmslkdfmlkanflkanfljknaklfnlkanflkanqekldfnajnedjklansekdfksjednjknaekjdnfkjsnefnWIOUEHRIO w hn4pcr9u8pn	9dhmrx3ij2 jir	j2xim333ej 
+Coding everywhere
 
 ## license
 MIT
 
 ## contributors
-xmc,x d, s,d msfmemememememememme
+Mayra Ibarra
 
 ## usage
-lkdmfkamsf
+Coding everywhere
 
 ## tests
-lksfnaljkdf
+No tests
 
 ## username
-ksdjn cfksjheiufhweiokfnosefklm
+msnaye
 
 ## repository
-nkjsnefijnseijfn
+calculator22
 
 
