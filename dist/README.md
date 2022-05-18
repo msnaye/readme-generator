@@ -31,7 +31,7 @@ MIT
 Mayra Ibarra
 
 ## usage
-It is used to generate a quick and professional README.md file.
+It is used to generate quick and professional README.md files.
 
 ## tests
 None

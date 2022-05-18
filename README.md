@@ -6,6 +6,7 @@
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Languages](#Languages)
 - [Contact Me](#Contact-Me)
+- [Video Link](#Video-Link)
 
 
 
@@ -41,6 +42,15 @@
 
 [Github](https://github.com/msnaye)
 [linkedin](https://www.linkedin.com/in/mayra-ibarra-78588588/)
+
+## Video Link
+
+[Video Link](https://watch.screencastify.com/v/ykhJLJLzGPzqyJ1QuMXA)
+
+
+
+
+
 
 
 
